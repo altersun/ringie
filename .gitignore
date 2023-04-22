@@ -1,12 +1,13 @@
 # Prerequisites
 *.d
 
-# Compiled Object files
+# Output files and folders
 *.slo
 *.lo
 *.o
 *.obj
 *.opp
+build/
 
 # Precompiled Headers
 *.gch
@@ -31,3 +32,6 @@
 *.exe
 *.out
 *.app
+
+# Editor
+.vscode
